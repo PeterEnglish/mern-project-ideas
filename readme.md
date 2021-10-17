@@ -11,7 +11,7 @@
 * Business 'Call To Action' Single Page Site
 
 
-* ## Medium
+## Medium
 * Workout Tracker
 * Library Invetory System
 * Travel Log App
